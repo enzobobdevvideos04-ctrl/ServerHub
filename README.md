@@ -45,13 +45,4 @@ ServerHub follows these principles:
 
 ---
 
-## ⚙️ Structure
-
-```txt
-ServerHub/
-├── configs/        # System and service configurations
-├── scripts/        # Automation and utility scripts
-├── experiments/    # Testing and experimental setups
-├── tools/          # Custom tools and helpers
-├── docs/           # Documentation and notes
-└── README.md       # Project overview
+Thanks for reading, you're a good person.
