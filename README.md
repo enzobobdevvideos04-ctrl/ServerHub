@@ -1,3 +1,7 @@
+# GNU General Public License v3.0
+
+---
+
 This project is licensed under the GNU GPLv3 — ensuring freedom to use, modify, and share while keeping it open-source.
 
 # ServerHub
