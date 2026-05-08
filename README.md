@@ -1,3 +1,5 @@
+This project is licensed under the GNU GPLv3 — ensuring freedom to use, modify, and share while keeping it open-source.
+
 # ServerHub
 
 Open-source project designed for Linux systems, servers, and advanced customization.  
