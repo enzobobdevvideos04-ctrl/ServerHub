@@ -1,8 +1,8 @@
-# GNU General Public License v3.0
+# [PROJECT DISCONTINUED!]
 
 ---
 
-This project is licensed under the GNU GPLv3 — ensuring freedom to use, modify, and share while keeping it open-source.
+PROJECT DISCONTINUED!! The ServerHub (ServerCore) project has been discontinued. I hope you all know this. See you later... 🙂
 
 # ServerHub
 
